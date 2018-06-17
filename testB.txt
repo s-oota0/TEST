@@ -1,5 +1,5 @@
-ƒTƒ‹‚Å‚à‚í‚©‚éGitƒRƒ}ƒ“ƒh
-add •ÏX‚ðƒCƒ“ƒfƒbƒNƒX‚É“o˜^‚·‚é
+ã‚µãƒ«ã§ã‚‚ã‚ã‹ã‚‹Gitã‚³ãƒžãƒ³ãƒ‰
+add å¤‰æ›´ã‚’ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ã«ç™»éŒ²ã™ã‚‹
 AAAAA
 AAAAA
 AAAAA
@@ -15,3 +15,4 @@ BBBBB
 BBBBB
 BBBBB
 a
+b
