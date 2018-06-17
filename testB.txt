@@ -1,2 +1,8 @@
 サルでもわかるGitコマンド
 add 変更をインデックスに登録する
+AAAAAAA
+AAAAAAA
+AAAAAAA
+AAAAAAA
+AAAAAAA
+AAAAAAA
